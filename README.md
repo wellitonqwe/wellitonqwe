@@ -11,7 +11,7 @@
 <div>
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,git" <img height="55em"src="https://github.com/user-attachments/assets/e0d86054-d33c-4fe6-9059-f33de19234ce"/>
+    <img src="https://skillicons.dev/icons?i=js,nodejs,git"/> <img height="55em"src="https://github.com/user-attachments/assets/e0d86054-d33c-4fe6-9059-f33de19234ce"/>
   </a>
 </p>
 </div>
