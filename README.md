@@ -24,23 +24,13 @@
 
 ## 📂 Repositórios em destaque
 
-### 📘 [crud-clientes-nodejs](https://github.com/joaosilva-dev/crud-clientes-nodejs)
-CRUD completo de cadastro de clientes com Node.js, Express e MongoDB.
-- Autenticação JWT
-- Upload de imagem com Multer
-- Deploy no Render
+### 🌐 [portifolio](https://github.com/portifolio)
+Meu portfólio pessoal feito com ...  
+Inclui projetos, currículo em PDF e seção de contato do e-mail.
 
-### 🌐 [portifolio-react](https://github.com/joaosilva-dev/portifolio-react)
-Meu portfólio pessoal feito com React e hospedado no Vercel.  
-Inclui projetos, currículo em PDF e seção de contato com envio automático por e-mail.
-
-### 📊 [dashboard-financeiro](https://github.com/joaosilva-dev/dashboard-financeiro)
-Painel financeiro simples com React + Chart.js. Dados mockados.  
-Exibe receitas, despesas e gráficos mensais.
 
 ## 🎯 Em andamento
 - Aprendendo ...
 - Projeto ...
----
 
 ## ✨ Obrigado por visitar meu perfil!
