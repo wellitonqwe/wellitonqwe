@@ -3,7 +3,7 @@
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas  
 💻 Apaixonado por desenvolvimento full stack e soluções web  
 📍 Guarulhos - SP  
-📫 Contato: wellitonqwe@gmail.com | [LinkedIn](linkedin.com/in/welliton-guimarães-912930353)
+📫 Contato: wellitonqwe@gmail.com | [LinkedIn](https://www.linkedin.com/in/welliton-guimar%C3%A3es-912930353/)
 
 ## 🚀 Tecnologias e Ferramentas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
